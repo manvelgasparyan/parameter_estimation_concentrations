@@ -1,4 +1,4 @@
-This repository contains the Matlab library corresponding to the manuscript "Parameter estimation for models of chemical reaction networks from partial experimental data of species' concentrations" published in "The Journal". The manuscript is available at "the website".
+This repository contains the Matlab library corresponding to the manuscript "Parameter estimation for models of chemical reaction networks from partial experimental data of species' concentrations" published in "Bioengineering". The manuscript is available at "https://www.mdpi.com/2306-5354/10/9/1056".
 
 The MATLAB library uses the information of a given CRN and the available observed time-series partial experimental data of species' concentrations provided by the user to automatically determine the best-fitting values of the parameters contained in the corresponding mathematical model. 
 
